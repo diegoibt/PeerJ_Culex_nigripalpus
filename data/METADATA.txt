@@ -1,0 +1,17 @@
+#SampleID	other_id	Mean260_280	mean_nac	dna_added	ae_buffer	plate_row	plate_col	species	stage	location	county	date_sampled	num_of_larvae	tank	nutrient_level
+54	54	2	49	8.2	31.8	E	6	Cx. nigripalpus	female adult	Vero Beach 	Indian River County	12-Oct-15	3	N/A	
+55	55	2.1	140.9	2.8	37.2	E	7	Cx. nigripalpus	female adult	Vero Beach 	Indian River County	12-Oct-15	3	N/A	
+56	56	2	51.9	7.7	32.3	E	8	Cx. nigripalpus	female adult	Vero Beach 	Indian River County	12-Oct-15	3	N/A	
+57	57	1.8	58.1	6.9	33.1	E	9	Cx. nigripalpus	female adult	Vero Beach 	Indian River County	12-Oct-15	3	N/A	
+82	82	2	107	3.7	36.3	G	10	Cx. nigripalpus	Adults	B1P (-82.5526666666666, 27.64048333)	Manatee county	02-Dec-15	3	N/A	
+83	83	2	100.6	4	36	G	11	Cx. nigripalpus	Adults	B1P (-82.5526666666666, 27.64048333)	Manatee county	02-Dec-15	3	N/A	
+84	84	2	99.4	4	36	G	12	Cx. nigripalpus	Adults	B1P (-82.5526666666666, 27.64048333)	Manatee county	02-Dec-15	3	N/A	
+85	85	2.1	115.3	3.5	36.5	H	1	Cx. nigripalpus	Adults	B1P (-82.5526666666666, 27.64048333)	Manatee county	03-Dec-15	3	N/A	
+86	86	2.1	117.8	3.4	36.6	H	2	Cx. nigripalpus	Adults	B1P (-82.5526666666666, 27.64048333)	Manatee county	03-Dec-15	3	N/A	
+87	87	2	78.7	5.1	34.9	H	3	Cx. nigripalpus	Adults	B1GF (-82.49683333 27.62796667)	Manatee county	02-Dec-15	3	N/A	
+88	88	2	81.6	4.9	35.1	H	4	Cx. nigripalpus	Adults	B1GF (-82.49683333 27.62796667)	Manatee county	02-Dec-15	3	N/A	
+89	89	2	93.3	4.3	35.7	H	5	Cx. nigripalpus	Adults	B1GF (-82.49683333 27.62796667)	Manatee county	02-Dec-15	3	N/A	
+90	90	2.1	117	3.4	36.6	H	6	Cx. nigripalpus	Adults	B1GF (-82.49683333 27.62796667)	Manatee county	03-Dec-15	3	N/A	
+91	91	2	78.7	5.1	34.9	H	7	Cx. nigripalpus	Adults	B1GF (-82.49683333 27.62796667)	Manatee county	03-Dec-15	2	N/A	
+95	95	1.9	82.1	4.9	35.1	H	11	Cx. nigripalpus	Adults	B1GF (-82.49683333 27.62796667)	Manatee county	03-Dec-15	3	N/A	
+96	96	2	115.1	3.5	36.5	H	12	Cx. nigripalpus	Adults	B1P (-82.5526666666666, 27.64048333)	Manatee county	03-Dec-15	3	N/A	
